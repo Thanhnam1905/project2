@@ -37,7 +37,7 @@ function Management() {
 
   const statusSuccess = (
     <button className="statusSuccess">
-      <span></span> Chưa sử dụng
+      <span></span> Đã sử dụng
     </button>
   );
   const statusFail = (

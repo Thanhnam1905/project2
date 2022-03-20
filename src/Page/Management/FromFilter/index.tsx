@@ -54,7 +54,7 @@ export function FromFilter({
             </label>
             <label>
               <Field type="radio" name="picked" value="NotUsed" />
-              <span>Chưa sử dụng</span>
+              <span>Hết hạn</span>
             </label>
           </div>
         </div>
